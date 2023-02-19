@@ -1,2 +1,4 @@
-description of the 1st paragraph
+git remote add origin https://github.com/NikolosolokiN/world_world.git
+git branch -M main
+git push -u origin main
 
